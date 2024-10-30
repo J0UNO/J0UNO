@@ -6,4 +6,4 @@
   <img src="https://files.catbox.moe/zsgs4b.png" />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=cupidscharm&color=191919&label=sinners&style=plastic)
+![Profile views](https://komarev.com/ghpvc/?username=cupidscharm&color=201818&label=sinners&style=plastic)
